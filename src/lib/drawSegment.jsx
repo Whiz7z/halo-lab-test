@@ -1027,4 +1027,3 @@ export const drawSegment = (ctx, coordinates, side, offsetY = 0) => {
     ctx.fill();
   }
 };
-
